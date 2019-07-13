@@ -2,5 +2,4 @@
 Applikasi Pendaftaran Ngaji dengan PHP
 
 demo:
-
-ngajingalong.ga
+http://ngajingalong.ga
