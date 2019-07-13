@@ -1,2 +1,6 @@
 # ngajingalong
-My first App
+Applikasi Pendaftaran Ngaji dengan PHP
+
+demo:
+
+ngajingalong.ga
