@@ -35,7 +35,7 @@ include_once "koneksi/koneksi.php";
         }
         .login-button:hover{
             background-color: #66c2ff;
-            color: white;
+            color: green;
         }
         </style>
 </head>
